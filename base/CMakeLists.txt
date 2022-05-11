@@ -1,0 +1,5 @@
+set(CMAKE_CXX_FLAGS "${CAMKE_CXX_FLAGS} -std=c++11")
+FIND_PACKAGE(Threads)
+aux_source_directory(. DIRA)
+add_library(base ${DIRA})
+TARGET_LINK_LIBRARIES(base ${CMAKE_THREAD_LIBS_INIT})

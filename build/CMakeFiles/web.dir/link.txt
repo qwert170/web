@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/web.dir/main.cpp.o  -o web  base/libbase.a net/libnet.a net/http/libhttp.a -lpthread 

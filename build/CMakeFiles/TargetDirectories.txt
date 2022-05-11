@@ -1,0 +1,12 @@
+/home/zxp/web1/build/CMakeFiles/rebuild_cache.dir
+/home/zxp/web1/build/CMakeFiles/edit_cache.dir
+/home/zxp/web1/build/CMakeFiles/web.dir
+/home/zxp/web1/build/base/CMakeFiles/rebuild_cache.dir
+/home/zxp/web1/build/base/CMakeFiles/edit_cache.dir
+/home/zxp/web1/build/base/CMakeFiles/base.dir
+/home/zxp/web1/build/net/CMakeFiles/rebuild_cache.dir
+/home/zxp/web1/build/net/CMakeFiles/edit_cache.dir
+/home/zxp/web1/build/net/CMakeFiles/net.dir
+/home/zxp/web1/build/net/http/CMakeFiles/rebuild_cache.dir
+/home/zxp/web1/build/net/http/CMakeFiles/edit_cache.dir
+/home/zxp/web1/build/net/http/CMakeFiles/http.dir

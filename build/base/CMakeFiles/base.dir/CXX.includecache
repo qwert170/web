@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zxp/web1/base/CurrentThread.cc
+../base/CurrentThread.h
+/home/zxp/web1/base/CurrentThread.h
+cxxabi.h
+-
+execinfo.h
+-
+stdlib.h
+-
+sys/prctl.h
+-
+sys/syscall.h
+-
+sys/types.h
+-
+unistd.h
+-
+
+/home/zxp/web1/base/CurrentThread.h
+sys/types.h
+-
+
